@@ -33,6 +33,8 @@ The Medical Meadow Medical Flashcards dataset contains medical curriculum flashc
 - Federica Vinciguerra
 - Rishabh Tiwari
 - Felipe Bagni
+- Dan Lionis
+- Erfan Amidi
 
 ## Installation and Usage
 Instructions for setting up the project environment and running the notebooks:
