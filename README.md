@@ -40,5 +40,7 @@ The Medical Meadow Medical Flashcards dataset contains medical curriculum flashc
 Instructions for setting up the project environment and running the notebooks:
 ```bash
 git clone https://github.com/federicavinciguerra/NLP-Polimi-Project.git
+cd NLP-Polimi-Project
+pip install -r requirements.txt
 
 
