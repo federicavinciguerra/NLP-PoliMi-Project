@@ -28,15 +28,15 @@ The Medical Meadow Medical Flashcards dataset contains medical curriculum flashc
 - `data/` - Scripts and utilities for data handling and preprocessing.
 - `models/` - Trained models and their respective configurations.
 - `docs/` - Additional documentation and resources related to the project.
-
-## Installation and Usage
-Instructions for setting up the project environment and running the notebooks:
-```bash
-git clone https://github.com/Icon1cc/NLP-Polimi-Project.git
-cd NLP-Polimi-Project
-pip install -r requirements.txt
-
+- 
 ## Authors
 -Federica Vinciguerra
 -Rishabh Tiwari
 -Felipe Bagni
+
+## Installation and Usage
+Instructions for setting up the project environment and running the notebooks:
+```bash
+git clone https://github.com/federicavinciguerra/NLP-Polimi-Project.git
+
+
