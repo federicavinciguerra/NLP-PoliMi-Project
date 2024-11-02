@@ -28,11 +28,11 @@ The Medical Meadow Medical Flashcards dataset contains medical curriculum flashc
 - `data/` - Scripts and utilities for data handling and preprocessing.
 - `models/` - Trained models and their respective configurations.
 - `docs/` - Additional documentation and resources related to the project.
-- 
+  
 ## Authors
--Federica Vinciguerra
--Rishabh Tiwari
--Felipe Bagni
+- Federica Vinciguerra
+- Rishabh Tiwari
+- Felipe Bagni
 
 ## Installation and Usage
 Instructions for setting up the project environment and running the notebooks:
