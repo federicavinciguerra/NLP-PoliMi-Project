@@ -1,7 +1,7 @@
 # Medical Question Answering with Medical Meadow Dataset
 
 ## Project Overview
-This project focuses on applying Natural Language Processing techniques to analyze the Medical Meadow Medical Flashcards dataset and build a model capable of answering medical questions. The aim is to leverage machine learning models trained on a corpus of medical flashcards provided to GPT-3.5 to create accurate and relevant medical knowledge question-answer pairs.
+This project focuses on applying Natural Language Processing techniques to analyze the Medical Meadow Medical Flashcards dataset and build a model capable of answering medical questions.
 
 ## Dataset
 The Medical Meadow Medical Flashcards dataset contains medical curriculum flashcards used to train GPT-3.5 for generating medical knowledge question-answer pairs.
